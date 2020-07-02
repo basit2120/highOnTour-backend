@@ -4,7 +4,5 @@
 
 ## Setup
 
-Install mongodb
-
 Run `npm install`
 Run `node app.js`
